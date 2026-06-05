@@ -1,0 +1,14 @@
+{
+  "livePreview": true,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_attachments",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": ".raw"
+}

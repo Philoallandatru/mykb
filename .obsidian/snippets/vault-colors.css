@@ -1,0 +1,97 @@
+/* Vault Colors and Styling */
+
+/* 文件夹图标颜色 */
+.nav-folder-title[data-path="projects"] .nav-folder-title-content::before {
+  content: "📁 ";
+}
+
+.nav-folder-title[data-path="health"] .nav-folder-title-content::before {
+  content: "💪 ";
+}
+
+.nav-folder-title[data-path="goals"] .nav-folder-title-content::before {
+  content: "🎯 ";
+}
+
+.nav-folder-title[data-path="learning"] .nav-folder-title-content::before {
+  content: "📚 ";
+}
+
+.nav-folder-title[data-path="entities"] .nav-folder-title-content::before {
+  content: "👥 ";
+}
+
+.nav-folder-title[data-path="concepts"] .nav-folder-title-content::before {
+  content: "💡 ";
+}
+
+.nav-folder-title[data-path=".raw"] .nav-folder-title-content::before {
+  content: "📥 ";
+}
+
+.nav-folder-title[data-path="_templates"] .nav-folder-title-content::before {
+  content: "📝 ";
+}
+
+.nav-folder-title[data-path="meta"] .nav-folder-title-content::before {
+  content: "⚙️ ";
+}
+
+/* 状态标签颜色 */
+.tag[href="#active"] {
+  background-color: #10b981;
+  color: white;
+}
+
+.tag[href="#completed"] {
+  background-color: #6366f1;
+  color: white;
+}
+
+.tag[href="#planned"] {
+  background-color: #f59e0b;
+  color: white;
+}
+
+.tag[href="#paused"] {
+  background-color: #64748b;
+  color: white;
+}
+
+/* 优先级颜色 */
+.tag[href="#high"],
+.tag[href="#priority/high"] {
+  background-color: #ef4444;
+  color: white;
+}
+
+.tag[href="#medium"],
+.tag[href="#priority/medium"] {
+  background-color: #f59e0b;
+  color: white;
+}
+
+.tag[href="#low"],
+.tag[href="#priority/low"] {
+  background-color: #10b981;
+  color: white;
+}
+
+/* Dataview表格样式优化 */
+.dataview.table-view-table {
+  width: 100%;
+}
+
+.dataview.table-view-table td,
+.dataview.table-view-table th {
+  padding: 8px 12px;
+}
+
+/* 复选框样式 */
+.task-list-item-checkbox {
+  margin-right: 8px;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #10b981;
+}

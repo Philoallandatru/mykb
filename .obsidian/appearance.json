@@ -1,0 +1,10 @@
+{
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "vault-colors"
+  ],
+  "theme": "moonstone",
+  "translucency": false,
+  "accentColor": ""
+}

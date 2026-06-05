@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "main-workspace",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb36b57a63f009b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "main-leaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/mlcommons-storage-benchmark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mlcommons-storage-benchmark"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "left-sidebar",
+    "type": "split",
+    "children": [
+      {
+        "id": "163974db0e040623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "file-explorer",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6dffd4ffbee6fdb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f7b506512e17a287",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "right-sidebar",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ee2c5ee0f99b832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "backlink-pane",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learning/mlcommons-storage-benchmark.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "mlcommons-storage-benchmark 的反向链接列表"
+            }
+          },
+          {
+            "id": "594421117242bcd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "entities/vllm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "vllm 的出链列表"
+            }
+          },
+          {
+            "id": "56c33c94b6b50e43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b3c1b2a4331346ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c35c7998cdd28954",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "entities/vllm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "vllm 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "main-leaf",
+  "lastOpenFiles": [
+    "learning/inference-frameworks-ai-ssd.md",
+    "learning/inference-frameworks-ai-ssd.md.tmp.4244.270b36601555",
+    "learning/vectordb-benchmark.md",
+    "learning/vectordb-benchmark.md.tmp.4244.262c2c24b1a6",
+    "learning/lmcache-stress-test-learning.md",
+    "learning/llm-offloading-evolution.md",
+    "learning/kv-cache-benchmark-io-profiling.md",
+    "entities/lmcache.md",
+    "concepts/ai-ssd.md",
+    "concepts/cpu-offload.md",
+    "learning/mlcommons-storage-benchmark.md",
+    "learning/mlcommons-storage-benchmark.md.tmp.4244.a145a8ee0cba",
+    "entities/mlcommons-storage.md",
+    "entities/mlcommons-storage.md.tmp.4244.977dc11248a2",
+    "learning/kv-cache-benchmark-io-profiling.md.tmp.4244.062beb2bbe10",
+    "projects/ai-ssd-benchmark-testing.md",
+    "projects/ai-ssd-benchmark-testing.md.tmp.4244.2e9187259ca3",
+    "entities/vllm.md",
+    "meta/ingestion-report-ai-ssd.md",
+    "meta/ingestion-report-ai-ssd.md.tmp.39820.3bd710ee0899",
+    "entities/lmcache.md.tmp.39820.caf857027d83",
+    "concepts/gpu-direct-storage.md.tmp.39820.61e1d0b89884",
+    "concepts/kv-cache.md.tmp.39820.a278a4a01756",
+    "learning/ai-ssd-benchmark-design.md",
+    "entities/tutti.md",
+    "concepts/mmap-llama-cpp.md",
+    "concepts/cxl-memory.md",
+    "concepts/vllm-vs-sglang.md",
+    "concepts/gpu-direct-storage.md",
+    "entities/qwen.md",
+    "entities/index.md",
+    "meta/session-summary-2026-06-04.md",
+    "concepts/near-storage-computing.md",
+    "2026-06-04.md",
+    "projects/lmcache-ssd-stress-test.md",
+    "Async-IO.md"
+  ]
+}
