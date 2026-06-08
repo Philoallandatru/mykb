@@ -77,3 +77,12 @@ KV Cache（Key-Value Cache）是大语言模型（LLM）推理中的一种优化
 
 *创建于: 2026-06-04*
 *来源: Tutti论文分析*
+
+
+## 相关概念
+- [[kv-cache-quantization]]
+- [[multi-query-attention]]
+- [[flash-attention]]
+- [[flashinfer]]
+
+- [[flashinfer-jit-cache]]
