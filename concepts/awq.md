@@ -255,6 +255,7 @@ outputs = llm.generate(prompts)
 
 
 ## 相关概念
+- [[gguf]]
 
 - [[gptq]]
 - [[kv-cache-quantization]]

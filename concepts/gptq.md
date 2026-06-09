@@ -319,6 +319,7 @@ model.config.use_cuda_graph = True
 
 
 ## 相关概念
+- [[gguf]]
 
 - [[awq]]
 - [[kv-cache-quantization]]

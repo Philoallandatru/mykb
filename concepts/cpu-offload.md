@@ -316,6 +316,8 @@ model = AutoModelForCausalLM.from_pretrained(
 
 
 ## 相关概念
+- [[pcie-bandwidth]]
+- [[nvme-ssd]]
 - [[gpu-direct-storage]]
 
 - [[gpu-memory-hierarchy]]
