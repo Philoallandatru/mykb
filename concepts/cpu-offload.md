@@ -316,6 +316,9 @@ model = AutoModelForCausalLM.from_pretrained(
 
 
 ## 相关概念
+- [[mmap-llama-cpp]]
+- [[llm-offloading-evolution]]
+- [[cxl-memory]]
 - [[pcie-bandwidth]]
 - [[nvme-ssd]]
 - [[gpu-direct-storage]]

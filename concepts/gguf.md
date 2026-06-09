@@ -468,6 +468,7 @@ for prompt in prompts:
 
 
 ## 相关概念
+- [[mmap-llama-cpp]]
 
 - [[awq]]
 - [[gptq]]

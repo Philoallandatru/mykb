@@ -115,6 +115,9 @@ AI PC 已成为明确趋势：
 - power loss 下数据库一致性
 
 ## 相关概念
+- [[vectordb-benchmark]]
+- [[mlcommons-storage-benchmark]]
+- [[inference-frameworks-ai-ssd]]
 
 - [[kv-cache]] - KV cache 是 AI SSD 的重要应用场景
 - [[gpu-direct-storage]] - GPU Direct Storage 可加速模型加载

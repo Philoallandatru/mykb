@@ -65,6 +65,7 @@ output = wrapper.forward(q, kv_cache, ...)
 
 
 ## 相关概念
+- [[flashinfer-jit-cache-best-practices]]
 
 - [[vllm]]
 - [[sglang]]

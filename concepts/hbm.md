@@ -283,6 +283,7 @@ ncu --metrics dram__throughput.avg.pct_of_peak \
 
 
 ## 相关概念
+- [[cxl-memory]]
 
 - [[gpu-memory-hierarchy]]
 - [[kv-cache]]

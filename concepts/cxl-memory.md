@@ -350,3 +350,10 @@ def select_important_tokens(kv_cache_in_cxl):
 
 *创建于: 2026-06-04*
 *来源: AI系统Offloading技术研究*
+
+
+## 相关概念
+
+- [[gpu-memory-hierarchy]]
+- [[hbm]]
+- [[cpu-offload]]

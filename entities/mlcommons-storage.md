@@ -161,6 +161,7 @@ mpirun -n 8 mlpstorage --workload training --model retinanet
 - [[gpu-direct-storage|GPU Direct Storage]]
 
 ### 相关工具
+- [[mlcommons-storage-benchmark]]
 - [[lmcache|LMCache]] - 使用 SSD 作为 KV cache 存储
 - [[vllm|vLLM]] - LLM 推理引擎
 

@@ -185,6 +185,7 @@ state = multi_turn_chat.run(
 
 
 ## 相关概念
+- [[inference-frameworks-ai-ssd]]
 - [[tensorrt-llm]]
 - [[speculative-decoding]]
 

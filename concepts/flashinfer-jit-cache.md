@@ -67,6 +67,7 @@ export FLASHINFER_CACHE_SIZE_MB=2048
 
 
 ## 相关概念
+- [[flashinfer-jit-cache-best-practices]]
 
 - [[kv-cache]]
 - [[vllm]]

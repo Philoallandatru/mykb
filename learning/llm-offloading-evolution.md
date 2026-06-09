@@ -438,3 +438,10 @@ Cold queries: 其余 (79GB) → SSD
 
 *创建于: 2026-06-04*
 *状态: 持续学习中，已建立框架*
+
+
+## 相关概念
+
+- [[cpu-offload]]
+- [[gpu-direct-storage]]
+- [[nvme-ssd]]

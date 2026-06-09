@@ -603,15 +603,9 @@ SSD → CPU DRAM → GPU
 
 > **长上下文 KV cache（64K~256K random read p99 < 10ms）+ RAG 随机访问（4K~128K mixed QoS）+ 模型加载（低 QD 顺序读稳定性）+ 前台读优先级（后台写不干扰）+ 老化和温控下的 p99 稳定性。**
 
+
 ## 相关概念
 
-- [[ai-ssd]] - AI SSD 核心定义
-- [[ai-ssd-benchmark-design]] - AI SSD benchmark 方法论
-- [[kv-cache]] - KV cache 核心概念
-- [[lmcache]] - LMCache 实现
-- [[vllm]] - vLLM 推理框架
-- [[gpu-direct-storage]] - GPU Direct Storage
-
----
-
-**标签**: #learning #ai-ssd #inference #framework #vllm #sglang #lmcache #kv-cache #rag
+- [[vllm]]
+- [[sglang]]
+- [[ai-ssd]]

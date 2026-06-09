@@ -149,3 +149,10 @@ grep "Cache hit" service.log | wc -l    # 命中次数
 5. CUDA 版本、GPU 架构都会影响缓存键，升级时需重新预热
 6. 合理设置缓存大小限制，避免磁盘占满
 7. JIT 缓存机制可复用到其他 CUDA kernel 优化场景
+
+
+## 相关概念
+
+- [[flashinfer-jit-cache]]
+- [[flashinfer]]
+- [[vllm]]

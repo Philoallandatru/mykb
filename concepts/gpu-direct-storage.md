@@ -362,6 +362,7 @@ gdsio -f /path/to/file -s 1G -w 4
 
 
 ## 相关概念
+- [[llm-offloading-evolution]]
 
 - [[cpu-offload]]
 - [[nvme-ssd]]

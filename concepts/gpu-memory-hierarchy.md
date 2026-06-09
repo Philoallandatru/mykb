@@ -266,6 +266,7 @@ __global__ void kernel_optimized(float* data) {
 
 
 ## 相关概念
+- [[cxl-memory]]
 - [[cpu-offload]]
 
 - [[kv-cache]]

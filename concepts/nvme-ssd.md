@@ -379,6 +379,10 @@ IOPS:
 
 
 ## 相关概念
+- [[vectordb-benchmark]]
+- [[mmap-llama-cpp]]
+- [[mlcommons-storage-benchmark]]
+- [[llm-offloading-evolution]]
 
 - [[gpu-direct-storage]]
 - [[cpu-offload]]

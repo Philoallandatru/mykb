@@ -651,13 +651,8 @@ VectorDB Benchmark 提供了**向量数据库性能测试的标准化方法**。
 
 这套方法论是 RAG 应用存储优化的重要基础。
 
+
 ## 相关概念
 
-- [[mlcommons-storage]] - MLCommons Storage 整体介绍
-- [[kv-cache-benchmark-io-profiling]] - KV Cache benchmark
-- [[ai-ssd-benchmark-design]] - AI SSD benchmark 方法论
-- [[ai-ssd]] - AI SSD 核心定义
-
----
-
-**标签**: #learning #benchmark #vectordb #rag #milvus #recall #latency
+- [[ai-ssd]]
+- [[nvme-ssd]]
