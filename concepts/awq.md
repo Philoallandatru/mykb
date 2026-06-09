@@ -253,9 +253,9 @@ outputs = llm.generate(prompts)
 2. **动态量化**: 运行时调整
 3. **混合精度**: 层级别选择精度
 
+
 ## 相关概念
 
 - [[gptq]]
-- [[gguf]]
 - [[kv-cache-quantization]]
 - [[model-compression]]

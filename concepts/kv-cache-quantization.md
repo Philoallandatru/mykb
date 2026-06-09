@@ -167,6 +167,8 @@ KV Cache Quantization 是将 KV cache 从高精度（FP16/BF16）压缩到低精
 
 
 ## 相关概念
+- [[gptq]]
+- [[awq]]
 
 - [[kv-cache]]
 - [[multi-query-attention]]

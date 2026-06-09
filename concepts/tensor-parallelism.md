@@ -155,6 +155,7 @@ class RowParallelLinear(nn.Module):
 
 
 ## 相关概念
+- [[pipeline-parallelism]]
 
 - [[vllm]]
 - [[distributed-inference]]

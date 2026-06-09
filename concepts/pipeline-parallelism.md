@@ -354,8 +354,8 @@ GPU 3: ░░░░░░████░░██░░
 - 运行时增减 stage
 - 容错和故障恢复
 
+
 ## 相关概念
 
 - [[tensor-parallelism]]
-- [[data-parallelism]]
 - [[distributed-inference]]

@@ -317,8 +317,8 @@ model.config.use_cuda_graph = True
 3. **硬件协同**: 专用量化芯片
 4. **端到端**: 训练+量化一体化
 
+
 ## 相关概念
 
 - [[awq]]
 - [[kv-cache-quantization]]
-- [[model-compression]]
